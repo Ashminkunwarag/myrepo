@@ -24,3 +24,4 @@ dmrtcomparison
 require(agricolae)
 LSDcomparison<-with(ashmin,LSD.test(yield,trt,20,0.01874))
 LSDcomparison
+# Learned from AGRI LEARN with Anuj Youtube Channel
